@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>Testing Purpose</title>
+    <title>Testing Purposes</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
