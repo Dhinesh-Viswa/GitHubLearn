@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GitHubLearn/.vs
+/GitHubLearn/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+/GitHubLearn/GitHubLearn/obj/Debug
+/GitHubLearn/GitHubLearn/bin
+/.vs
