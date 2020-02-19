@@ -15,8 +15,8 @@
     <div>
         <h4>Project</h4>
     </div>
-    <div id="DetList">
-        <table>
+    <div class="col-md-12" id="DetList">
+        <table style="width:100%;">
             <thead>
                 <tr>
                     <td>S.No.</td>

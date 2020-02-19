@@ -6,6 +6,7 @@
 <head runat="server">
     <title>Testing Purposes</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="css/bootstrap.css" rel="stylesheet" />
     </asp:ContentPlaceHolder>
 </head>
 <body>
