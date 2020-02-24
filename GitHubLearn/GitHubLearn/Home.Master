@@ -4,7 +4,7 @@
 
 <html>
 <head runat="server">
-    <title>Testing Purposes</title>
+    <title>GitHub Learning</title>
     <asp:ContentPlaceHolder ID="head" runat="server">
         <link href="css/bootstrap.css" rel="stylesheet" />
     </asp:ContentPlaceHolder>
